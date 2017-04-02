@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+background-color: #696971;
+background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */);
+}
+header{
+
+  text-align: center;
+  padding-top: 50px;
+  font-size: 28px;
+  font-weight: bold;
+}
+img{
+
+  max-width: 200px;
+  margin-left: 600px;
+}
+.time{
+
+text-align: center;
+padding-top: 20px;
+color: white;
+
+}
+#joker{
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding-top:20px;
+  padding-bottom: 30px;
+
+}
+.checkbox-inline{
+  padding-left: 250px;
+
+}
+#nine{
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding-top:20px;
+  padding-bottom: 30px;
+
+}
+
+#bruceWayne{
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding-top:20px;
+  padding-bottom: 30px;
+
+}
+.time{
+  font-weight: bold;
+  font-size: 28px;
+}
